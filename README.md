@@ -2,3 +2,7 @@
 
 ## About
 The goal is to practice the application and quality assessment of an estimated fundamental matrix. We will visualize the epipolar lines that result from a set of hand marked correspondences and compute the Epipolar and Algebraic distance measures.
+
+## Authors:
+- [Husam Lucia](https://www.linkedin.com/in/husam-lucia-6841b51a3)
+- [Regev Aloni](https://www.linkedin.com/in/aloniregev)
